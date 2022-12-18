@@ -5,7 +5,7 @@ KOOK机器人开发者文档：https://developer.kookapp.cn/
 
 使用khl.py外部库：https://github.com/TWT233/khl.py
 
-使用其他外部库：Pandas,Pillow,threading（random,os）
+使用其他外部库：Pandas,Pillow,threading,flask,khl.py（random,os,logging）
 
 命令：
 
